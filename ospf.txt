@@ -1,0 +1,1 @@
+ospf stands for open shortest path first
