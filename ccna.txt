@@ -1,4 +1,4 @@
-now a days there is no networking filed, every one is moving to cloud
-i am also planning to move to cloud
+ccna stands for cisco certified network associate
+this is the entry level certification program from cisco
 i have passed ccna on 2018
 i have started my career with networking field using ccna
