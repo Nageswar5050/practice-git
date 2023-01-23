@@ -1,0 +1,1 @@
+layer3 switch uses both mac address and ip address for forwarding information
