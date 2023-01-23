@@ -1,4 +1,5 @@
 now a days there is no networking filed, every one is moving to cloud
 i am also planning to move to cloud
+recently i have started learning aws
 i have passed ccna on 2018
 i have started my career with networking field using ccna
