@@ -5,3 +5,4 @@ i am also planning to move to cloud
 recently i have started learning aws
 i have passed ccna on 2018
 i have started my career with networking field using ccna
+Now i am trying how git pull works
